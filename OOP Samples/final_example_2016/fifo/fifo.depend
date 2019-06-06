@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1483032568 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/final_example_2016/fifo/main.cpp
+	<iostream>
+	"fifo.h"
+
+1482993188 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/final_example_2016/fifo/src/fifo.cpp
+	"fifo.h"
+
+1483038725 /home/sedat/KTU_OOP/ktu_oop_homeworks/final_example_2016/fifo/include/fifo.h
+	<cstdlib>
+
+1513839643 source:/home/sedat/oop_workspace/fifo/main.cpp
+	<iostream>
+	"fifo.h"
+
+1513870507 /home/sedat/oop_workspace/fifo/include/fifo.h
+	<cstdlib>
+
+1506668736 source:/home/sedat/oop_workspace/fifo/src/fifo.cpp
+	"fifo.h"
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1508999811 source:/home/sedat/oop_workspace/ktu_oop_homeworks/inheritanceConstructors/main.cpp
+	<iostream>
+	"baseClass.h"
+	"derivedClass.h"
+
+1509030965 /home/sedat/oop_workspace/ktu_oop_homeworks/inheritanceConstructors/include/baseClass.h
+
+1509030974 /home/sedat/oop_workspace/ktu_oop_homeworks/inheritanceConstructors/include/derivedClass.h
+	<baseClass.h>
+
+1509031309 source:/home/sedat/oop_workspace/ktu_oop_homeworks/inheritanceConstructors/src/baseClass.cpp
+	<iostream>
+	"baseClass.h"
+
+1509031317 source:/home/sedat/oop_workspace/ktu_oop_homeworks/inheritanceConstructors/src/derivedClass.cpp
+	<iostream>
+	"derivedClass.h"
+

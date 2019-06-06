@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1541745034 source:/home/sedat/oop_workspace/ktu_oop_homeworks/employee/main.cpp
+	<iostream>
+	"personType.h"
+	"partTimeEmployee.h"
+
+1541745070 source:/home/sedat/oop_workspace/ktu_oop_homeworks/employee/src/partTimeEmployee.cpp
+	"partTimeEmployee.h"
+
+1541744739 /home/sedat/oop_workspace/ktu_oop_homeworks/employee/include/partTimeEmployee.h
+	"personType.h"
+
+1541667917 /home/sedat/oop_workspace/ktu_oop_homeworks/employee/include/personType.h
+	<string>
+	<iostream>
+
+1541745057 source:/home/sedat/oop_workspace/ktu_oop_homeworks/employee/src/personType.cpp
+	"personType.h"
+

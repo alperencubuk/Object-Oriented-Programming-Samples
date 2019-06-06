@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1481742056 source:/home/sedat/KTU_OOP/OOP_examples/polygon/main.cpp
+	<iostream>
+	<triangle.h>
+	<rectangle.h>
+
+1474459073 /home/sedat/KTU_OOP/OOP_examples/polygon/include/triangle.h
+	<polygon.h>
+
+1481741830 /home/sedat/KTU_OOP/OOP_examples/polygon/include/polygon.h
+
+1474459073 /home/sedat/KTU_OOP/OOP_examples/polygon/include/rectangle.h
+	<polygon.h>
+
+1481741979 source:/home/sedat/KTU_OOP/OOP_examples/polygon/src/polygon.cpp
+	<iostream>
+	"polygon.h"
+
+1474459073 source:/home/sedat/KTU_OOP/OOP_examples/polygon/src/rectangle.cpp
+	"rectangle.h"
+	"string.h"
+
+1474459073 source:/home/sedat/KTU_OOP/OOP_examples/polygon/src/triangle.cpp
+	"triangle.h"
+	"string.h"
+
+1482496443 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/polygon_no_virtual/main.cpp
+	<iostream>
+	<triangle.h>
+	<rectangle.h>
+
+1481904071 /home/sedat/KTU_OOP/ktu_oop_homeworks/polygon_no_virtual/include/triangle.h
+	<polygon.h>
+
+1482496411 /home/sedat/KTU_OOP/ktu_oop_homeworks/polygon_no_virtual/include/polygon.h
+
+1481904082 /home/sedat/KTU_OOP/ktu_oop_homeworks/polygon_no_virtual/include/rectangle.h
+	<polygon.h>
+
+1482345451 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/polygon_no_virtual/src/polygon.cpp
+	<iostream>
+	"polygon.h"
+
+1481904078 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/polygon_no_virtual/src/rectangle.cpp
+	"rectangle.h"
+	"string.h"
+
+1481904102 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/polygon_no_virtual/src/triangle.cpp
+	"triangle.h"
+	"string.h"
+
+1509639170 source:/home/sedat/oop_workspace/ktu_oop_homeworks/polygon_no_virtual/main.cpp
+	<iostream>
+	<triangle.h>
+	<rectangle.h>
+
+1506668736 /home/sedat/oop_workspace/ktu_oop_homeworks/polygon_no_virtual/include/triangle.h
+	<polygon.h>
+
+1509633319 /home/sedat/oop_workspace/ktu_oop_homeworks/polygon_no_virtual/include/polygon.h
+
+1509639381 /home/sedat/oop_workspace/ktu_oop_homeworks/polygon_no_virtual/include/rectangle.h
+	<polygon.h>
+
+1506668736 source:/home/sedat/oop_workspace/ktu_oop_homeworks/polygon_no_virtual/src/polygon.cpp
+	<iostream>
+	"polygon.h"
+
+1509639375 source:/home/sedat/oop_workspace/ktu_oop_homeworks/polygon_no_virtual/src/rectangle.cpp
+	"rectangle.h"
+	"string.h"
+
+1506668736 source:/home/sedat/oop_workspace/ktu_oop_homeworks/polygon_no_virtual/src/triangle.cpp
+	"triangle.h"
+	"string.h"
+

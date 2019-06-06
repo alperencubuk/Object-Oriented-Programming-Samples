@@ -1,0 +1,12 @@
+Uzerinde cesitli operatorleri tanimlayacaginiz bir FIFO sinifi yapmaniz istenmektedir.
+
+FIFO sinifi dinamik olarak boyutu tanimlanabilen ve herhangi bir tipte uretilebilen bir sinif olmalidir.
+
+FIFO sinifinda eklenen ve cikarilan butun elemanlar bir yazma ve bir okuma pointeri uzerinden yapilmalidir.
+
+FIFO'da bulunan herhangi bir elemana [] operatoru uzerinden erisilmelidir.
+
+Iki fifo birbirine kopyalanirken icerikler dogru sekilde kopyalanmalidir.
+
+Eger FIFO icersinde bulunan yazma pointeri FIFO uzunlugunu gecerse. Pointer sifirdan devam etmeli ve bu sirada doluluk kontrolu de yapmalidir.
+

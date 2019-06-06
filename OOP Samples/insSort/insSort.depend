@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1493132556 source:/home/sedat/Desktop/Introduction to C/insSort/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507821324 source:/home/sedat/oop_workspace/ktu_oop_homeworks/insSort/main.c
+	<stdio.h>
+	<stdlib.h>
+

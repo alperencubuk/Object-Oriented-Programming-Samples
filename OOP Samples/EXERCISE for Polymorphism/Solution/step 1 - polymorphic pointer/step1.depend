@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1482932021 source:/home/sedat/KTU_OOP/OOP_examples/polymorphicShapes/step 1 - polymorphic pointer/main.cpp
+	"Rectangle.h"
+	"Circle.h"
+	<iostream>
+
+1482931444 /home/sedat/KTU_OOP/OOP_examples/polymorphicShapes/step 1 - polymorphic pointer/Rectangle.h
+	"Shape.h"
+
+1482932072 /home/sedat/KTU_OOP/OOP_examples/polymorphicShapes/step 1 - polymorphic pointer/Shape.h
+	<iostream>
+
+1482931480 /home/sedat/KTU_OOP/OOP_examples/polymorphicShapes/step 1 - polymorphic pointer/Circle.h
+	"Shape.h"
+
+1482924357 source:/home/sedat/KTU_OOP/OOP_examples/polymorphicShapes/step 1 - polymorphic pointer/Rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1482931529 source:/home/sedat/KTU_OOP/OOP_examples/polymorphicShapes/step 1 - polymorphic pointer/Circle.cpp
+	"Circle.h"
+	<iostream>
+
+1506668736 source:/home/sedat/oop_workspace/ktu_oop_homeworks/EXERCISE for Polymorphism/Solution/step 1 - polymorphic pointer/Circle.cpp
+	"Circle.h"
+	<iostream>
+
+1506668736 /home/sedat/oop_workspace/ktu_oop_homeworks/EXERCISE for Polymorphism/Solution/step 1 - polymorphic pointer/Circle.h
+	"Shape.h"
+
+1509698022 /home/sedat/oop_workspace/ktu_oop_homeworks/EXERCISE for Polymorphism/Solution/step 1 - polymorphic pointer/Shape.h
+	<iostream>
+
+1509698466 source:/home/sedat/oop_workspace/ktu_oop_homeworks/EXERCISE for Polymorphism/Solution/step 1 - polymorphic pointer/main.cpp
+	"Rectangle.h"
+	"Circle.h"
+	<iostream>
+
+1506668736 /home/sedat/oop_workspace/ktu_oop_homeworks/EXERCISE for Polymorphism/Solution/step 1 - polymorphic pointer/Rectangle.h
+	"Shape.h"
+
+1506668736 source:/home/sedat/oop_workspace/ktu_oop_homeworks/EXERCISE for Polymorphism/Solution/step 1 - polymorphic pointer/Rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1509698151 source:/home/sedat/oop_workspace/ktu_oop_homeworks/EXERCISE for Polymorphism/Solution/step 1 - polymorphic pointer/Shape.cpp
+	"Shape.h"
+
+1506668736 source:/home/sedat/oop_workspace/Solution/step 1 - polymorphic pointer/Circle.cpp
+	"Circle.h"
+	<iostream>
+
+1506668736 /home/sedat/oop_workspace/Solution/step 1 - polymorphic pointer/Circle.h
+	"Shape.h"
+
+1509730515 /home/sedat/oop_workspace/Solution/step 1 - polymorphic pointer/Shape.h
+	<iostream>
+
+1509730455 source:/home/sedat/oop_workspace/Solution/step 1 - polymorphic pointer/main.cpp
+	"Rectangle.h"
+	"Circle.h"
+	<iostream>
+
+1506668736 /home/sedat/oop_workspace/Solution/step 1 - polymorphic pointer/Rectangle.h
+	"Shape.h"
+
+1506668736 source:/home/sedat/oop_workspace/Solution/step 1 - polymorphic pointer/Rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1509698151 source:/home/sedat/oop_workspace/Solution/step 1 - polymorphic pointer/Shape.cpp
+	"Shape.h"
+

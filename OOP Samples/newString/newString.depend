@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1481132937 source:/home/sedat/ktu_oop_homeworks/newString/main.cpp
+	<iostream>
+	"newString.h"
+
+1481132575 /home/sedat/ktu_oop_homeworks/newString/include/newString.h
+	<iostream>
+
+1481132883 source:/home/sedat/ktu_oop_homeworks/newString/src/newString.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<cassert>
+	"newString.h"
+
+1481217849 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/newString/main.cpp
+	<iostream>
+	"newString.h"
+
+1481211784 /home/sedat/KTU_OOP/ktu_oop_homeworks/newString/include/newString.h
+	<iostream>
+
+1481217416 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/newString/src/newString.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<cassert>
+	"newString.h"
+
+1512660888 source:/home/sedat/oop_workspace/ktu_oop_homeworks/newString/main.cpp
+	<iostream>
+	"newString.h"
+
+1512661300 /home/sedat/oop_workspace/ktu_oop_homeworks/newString/include/newString.h
+	<iostream>
+
+1506668736 source:/home/sedat/oop_workspace/ktu_oop_homeworks/newString/src/newString.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<cassert>
+	"newString.h"
+

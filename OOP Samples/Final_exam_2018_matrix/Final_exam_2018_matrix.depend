@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1547152562 source:/home/sedat/oop_workspace/ktu_oop_homeworks/Final_exam_2018_matrix/main.cpp
+	<iostream>
+	<Matrix.h>
+
+1547152151 source:/home/sedat/oop_workspace/ktu_oop_homeworks/Final_exam_2018_matrix/src/Matrix.cpp
+	"Matrix.h"
+
+1547152373 /home/sedat/oop_workspace/ktu_oop_homeworks/Final_exam_2018_matrix/include/Matrix.h
+

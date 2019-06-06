@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1510335107 source:/home/sedat/oop_workspace/ktu_oop_homeworks/shape/main.cpp
+	<iostream>
+	"shape.h"
+	"cylinder.h"
+
+1510300064 source:/home/sedat/oop_workspace/ktu_oop_homeworks/shape/src/triangle.cpp
+	"triangle.h"
+
+1510300064 /home/sedat/oop_workspace/ktu_oop_homeworks/shape/include/triangle.h
+	<shape.h>
+
+1510332841 /home/sedat/oop_workspace/ktu_oop_homeworks/shape/include/shape.h
+	<iostream>
+
+1510300210 source:/home/sedat/oop_workspace/ktu_oop_homeworks/shape/src/trianglePrism.cpp
+	"trianglePrism.h"
+
+1510300210 /home/sedat/oop_workspace/ktu_oop_homeworks/shape/include/trianglePrism.h
+	<triangle.h>
+
+1510333003 source:/home/sedat/oop_workspace/ktu_oop_homeworks/shape/src/circle.cpp
+	"circle.h"
+
+1510303042 /home/sedat/oop_workspace/ktu_oop_homeworks/shape/include/circle.h
+	<iostream>
+	<shape.h>
+
+1510303031 source:/home/sedat/oop_workspace/ktu_oop_homeworks/shape/src/cylinder.cpp
+	"cylinder.h"
+
+1510303034 /home/sedat/oop_workspace/ktu_oop_homeworks/shape/include/cylinder.h
+	<circle.h>
+
+1510332035 source:/home/sedat/oop_workspace/ktu_oop_homeworks/shape/src/shape.cpp
+	"shape.h"
+

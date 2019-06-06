@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1507802403 source:/home/sedat/oop_workspace/ktu_oop_homeworks/structAndPointersC++/customer.cpp
+	"customer.h"
+
+1507802394 /home/sedat/oop_workspace/ktu_oop_homeworks/structAndPointersC++/customer.h
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+
+1507802005 source:/home/sedat/oop_workspace/ktu_oop_homeworks/structAndPointersC++/main.cpp
+	"customer.h"
+

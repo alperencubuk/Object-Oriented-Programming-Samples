@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1508390924 source:/home/sedat/oop_workspace/ktu_oop_homeworks/clockType/main.cpp
+	<iostream>
+	"clockType.h"
+
+1507883292 source:/home/sedat/oop_workspace/ktu_oop_homeworks/clockType/src/clockType.cpp
+	"clockType.h"
+	<iostream>
+
+1507883101 /home/sedat/oop_workspace/ktu_oop_homeworks/clockType/include/clockType.h
+
+1508390661 source:/home/sedat/oop_workspace/ktu_oop_homeworks/clockType/clockType.cpp
+	"clockType.h"
+	<iostream>
+
+1507883101 /home/sedat/oop_workspace/ktu_oop_homeworks/clockType/clockType.h
+

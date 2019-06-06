@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507309402 source:/home/sedat/oop_workspace/ktu_oop_homeworks/calcualte_grade/main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

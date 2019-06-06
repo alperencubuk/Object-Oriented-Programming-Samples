@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507819664 source:/home/sedat/oop_workspace/ktu_oop_homeworks/pig_latin/main.cpp
+	<iostream>
+	<string>
+

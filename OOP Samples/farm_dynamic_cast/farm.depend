@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1309778274 source:d:\video kursy en\c++\46. polymorphism, virtual functions, abstract classes\farm\main.cpp
+	<iostream>
+	"farm.h"
+
+1309778693 
+
+1309778693 d:\video kursy en\c++\46. polymorphism, virtual functions, abstract classes\farm\farm.h
+	<iostream>
+
+1309777890 source:d:\video kursy en\c++\46. polymorphism, virtual functions, abstract classes\farm\farm.cpp
+	"farm.h"
+
+1448199479 source:/home/sedat/KTU_OOP/OOP_examples/farm/main.cpp
+	<iostream>
+	"farm.h"
+
+1448199882 /home/sedat/KTU_OOP/OOP_examples/farm/farm.h
+	<iostream>
+	<string>
+
+1448199914 source:/home/sedat/KTU_OOP/OOP_examples/farm/farm.cpp
+	"farm.h"
+
+1482421351 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/farm/farm.cpp
+	"farm.h"
+
+1482421304 /home/sedat/KTU_OOP/ktu_oop_homeworks/farm/farm.h
+	<iostream>
+	<string>
+
+1482484119 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/farm/main.cpp
+	<iostream>
+	<typeinfo>
+	"farm.h"
+
+1506668736 source:/home/sedat/oop_workspace/ktu_oop_homeworks/farm_dynamic_cast/farm.cpp
+	"farm.h"
+
+1513962936 /home/sedat/oop_workspace/ktu_oop_homeworks/farm_dynamic_cast/farm.h
+	<iostream>
+	<string>
+
+1513963342 source:/home/sedat/oop_workspace/ktu_oop_homeworks/farm_dynamic_cast/main.cpp
+	<iostream>
+	<typeinfo>
+	"farm.h"
+

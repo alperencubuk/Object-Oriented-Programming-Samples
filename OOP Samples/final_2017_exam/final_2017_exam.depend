@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1514833523 source:/home/sedat/oop_workspace/final_2017_exam/main.cpp
+	<iostream>
+	"athlete.h"
+	"JavelinThrower.h"
+	"shortDistanceRunner.h"
+
+1514810365 source:/home/sedat/oop_workspace/final_2017_exam/src/athlete.cpp
+	"athlete.h"
+
+1514826602 /home/sedat/oop_workspace/final_2017_exam/include/athlete.h
+	<string>
+
+1514833569 source:/home/sedat/oop_workspace/final_2017_exam/src/JavelinThrower.cpp
+	<iostream>
+	<string>
+	"JavelinThrower.h"
+
+1514833421 /home/sedat/oop_workspace/final_2017_exam/include/JavelinThrower.h
+	<string>
+	<athlete.h>
+
+1514829323 source:/home/sedat/oop_workspace/final_2017_exam/src/shortDistanceRunner.cpp
+	<iostream>
+	"shortDistanceRunner.h"
+
+1514825900 /home/sedat/oop_workspace/final_2017_exam/include/shortDistanceRunner.h
+	<athlete.h>
+	<string>
+

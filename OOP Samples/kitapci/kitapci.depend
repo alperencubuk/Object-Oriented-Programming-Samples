@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1541146398 source:/home/sedat/oop_workspace/ktu_oop_homeworks/kitapci/main.cpp
+	<iostream>
+	"kitap.h"
+	"Bolum.h"
+
+1541146141 source:/home/sedat/oop_workspace/ktu_oop_homeworks/kitapci/src/Bolum.cpp
+	"Bolum.h"
+
+1541146103 /home/sedat/oop_workspace/ktu_oop_homeworks/kitapci/include/Bolum.h
+	"Raf.h"
+	<string>
+
+1541141231 /home/sedat/oop_workspace/ktu_oop_homeworks/kitapci/include/Raf.h
+	"kitap.h"
+
+1541142760 /home/sedat/oop_workspace/ktu_oop_homeworks/kitapci/include/kitap.h
+	<string>
+
+1541141225 source:/home/sedat/oop_workspace/ktu_oop_homeworks/kitapci/src/Raf.cpp
+	"Raf.h"
+
+1541139963 source:/home/sedat/oop_workspace/ktu_oop_homeworks/kitapci/src/kitap.cpp
+	"kitap.h"
+

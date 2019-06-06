@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1483085358 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/virtual_destructor_question_2016/main.cpp
+	<iostream>
+	"parent.h"
+	"child.h"
+
+1483085446 /home/sedat/KTU_OOP/ktu_oop_homeworks/virtual_destructor_question_2016/include/parent.h
+	"memory.h"
+
+1483085329 /home/sedat/KTU_OOP/ktu_oop_homeworks/virtual_destructor_question_2016/include/child.h
+	"parent.h"
+
+1483085358 source:/home/sedat/KTU_OOP/OOP_examples/2016_Exam/virtual_destructor_question_2016/main.cpp
+	<iostream>
+	"parent.h"
+	"child.h"
+
+1483085446 /home/sedat/KTU_OOP/OOP_examples/2016_Exam/virtual_destructor_question_2016/include/parent.h
+	"memory.h"
+
+1483085329 /home/sedat/KTU_OOP/OOP_examples/2016_Exam/virtual_destructor_question_2016/include/child.h
+	"parent.h"
+

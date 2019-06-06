@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1512149474 source:/home/sedat/oop_workspace/complexNumber/src/complexClass.cpp
+	"complexClass.h"
+
+1512659741 /home/sedat/oop_workspace/complexNumber/include/complexClass.h
+	<iostream>
+
+1512660085 source:/home/sedat/oop_workspace/complexNumber/main.cpp
+	<iostream>
+	"complexClass.h"
+	"complexArray.h"
+
+1512660260 source:/home/sedat/oop_workspace/complexNumber/src/complexArray.cpp
+	"complexArray.h"
+
+1512659629 /home/sedat/oop_workspace/complexNumber/include/complexArray.h
+	"complexClass.h"
+
+1513264249 source:/home/sedat/oop_workspace/ktu_oop_homeworks/complexNumber/src/complexArray.cpp
+	"complexArray.h"
+
+1513264088 /home/sedat/oop_workspace/ktu_oop_homeworks/complexNumber/include/complexArray.h
+	<string>
+	"complexClass.h"
+
+1513234294 /home/sedat/oop_workspace/ktu_oop_homeworks/complexNumber/include/complexClass.h
+	<iostream>
+	<string>
+
+1513262846 source:/home/sedat/oop_workspace/ktu_oop_homeworks/complexNumber/src/complexClass.cpp
+	"complexClass.h"
+	<stdlib.h>
+
+1513265679 source:/home/sedat/oop_workspace/ktu_oop_homeworks/complexNumber/main.cpp
+	<iostream>
+	"complexClass.h"
+	"complexArray.h"
+

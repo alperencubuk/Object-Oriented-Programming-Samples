@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1510209391 source:/home/sedat/oop_workspace/ktu_oop_homeworks/humanProject/main.cpp
+	<iostream>
+	"Human.h"
+	"ChinesePerson.h"
+	"englishPerson.h"
+
+1510208944 /home/sedat/oop_workspace/ktu_oop_homeworks/humanProject/include/Human.h
+	<iostream>
+
+1510207527 source:/home/sedat/oop_workspace/ktu_oop_homeworks/humanProject/src/Human.cpp
+	"Human.h"
+
+1510207630 source:/home/sedat/oop_workspace/ktu_oop_homeworks/humanProject/src/ChinesePerson.cpp
+	"ChinesePerson.h"
+
+1510206992 /home/sedat/oop_workspace/ktu_oop_homeworks/humanProject/include/ChinesePerson.h
+	<Human.h>
+
+1510209138 source:/home/sedat/oop_workspace/ktu_oop_homeworks/humanProject/src/englishPerson.cpp
+	"englishPerson.h"
+
+1510209079 /home/sedat/oop_workspace/ktu_oop_homeworks/humanProject/include/englishPerson.h
+	<Human.h>
+

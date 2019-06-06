@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1542271408 source:/home/sedat/oop_workspace/ktu_oop_homeworks/cylinderExample/main.cpp
+	<iostream>
+	"cylinderType.h"
+
+1542271343 source:/home/sedat/oop_workspace/ktu_oop_homeworks/cylinderExample/src/cylinderType.cpp
+	"cylinderType.h"
+	<iostream>
+
+1542271336 /home/sedat/oop_workspace/ktu_oop_homeworks/cylinderExample/include/cylinderType.h
+

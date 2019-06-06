@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1543566477 source:/home/sedat/oop_workspace/ktu_oop_homeworks/copyConstructorExample/main.cpp
+	<iostream>
+	"include/pClass.h"
+
+1543563688 /home/sedat/oop_workspace/ktu_oop_homeworks/copyConstructorExample/include/pClass.h
+
+1543564008 source:/home/sedat/oop_workspace/ktu_oop_homeworks/copyConstructorExample/src/pClass.cpp
+	"../include/pClass.h"
+

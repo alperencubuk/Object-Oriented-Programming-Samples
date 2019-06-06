@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1506668736 source:/home/sedat/oop_workspace/Solution/step 2 - virtual destructor/Circle.cpp
+	"Circle.h"
+	<iostream>
+
+1506668736 /home/sedat/oop_workspace/Solution/step 2 - virtual destructor/Circle.h
+	"Shape.h"
+
+1513925181 /home/sedat/oop_workspace/Solution/step 2 - virtual destructor/Shape.h
+	<iostream>
+
+1506668736 source:/home/sedat/oop_workspace/Solution/step 2 - virtual destructor/main.cpp
+	"Rectangle.h"
+	"Circle.h"
+	<iostream>
+
+1506668736 /home/sedat/oop_workspace/Solution/step 2 - virtual destructor/Rectangle.h
+	"Shape.h"
+
+1506668736 source:/home/sedat/oop_workspace/Solution/step 2 - virtual destructor/Rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+

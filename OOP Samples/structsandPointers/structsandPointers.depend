@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1495691948 source:/home/sedat/Desktop/Introduction to C/structsandPointers/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"customer.h"
+
+1495397408 /home/sedat/Desktop/Introduction to C/structsandPointers/customer.h
+
+1495691799 source:/home/sedat/Desktop/Introduction to C/structsandPointers/customer.c
+	<stdio.h>
+	<stdlib.h>
+	"customer.h"
+

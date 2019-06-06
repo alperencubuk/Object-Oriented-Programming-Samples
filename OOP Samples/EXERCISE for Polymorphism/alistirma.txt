@@ -1,0 +1,46 @@
+Alistirma - Adim1
+
+Abstract bir Sekil sinifi yaratmaniz isteniyor. Bu sinif tanistir(), alanHesapla() ve cevreHesapla() fonksiyonlarini icermelidir.
+Shape sinifindan turetilmis Daire ve Dikdortgen siniflarini yaratin. 
+Bu siniflarda daha once belirtmis oldugunuz fonksiyonlari gercekleyin (override).
+Bu gerceklenen fonksiyonlar asagidaki ifadeleri yazmalidirlar
+
+1) void tanistir() - eger nesne bir dikdortgense "Ben dikdortgenim!"  nesne bir daire ise "Ben bir daireyim!" yazdirmalidir
+2) double alanHesapla() - Seklin alanini dondurmelidir
+3) double cevreHesapla() - seklin cevresini dondurmelidir
+
+Herbir sinif icin gerekli uyeleri belirleyin.
+main kısmında uc adet polymorphic fonksiyon yazin: sekilTanistir(), sekilAlaniHesapla() ve sekilCevresiHesapla(). Bu uc fonksiyonun polymorphic olmasi icin fonksiyonlara hangi pointeri gondereceginizi dusunun. 
+
+main fonksiyonunda iki nesne olusturun ve bu nesneleri polymorphic fonksiyonlara parametre olarak gonderin ve ilgili hesaplamayi yapin.
+
+mesela eger dikdortgen nesnesi polymorphic "sekilTanistir" fonksiyonuna gonderilirse asagidaki ciktiyi uretmelidir:
+
+eg.
+Ben bir dikdortgenim!
+Alanim: 10, Cevrem: 14
+
+Benbir daireyim !
+Alanim: 28.26, cevrem: 18.84
+
+Alistirma - Adim2
+
+Daire, Dikdortgen ve Sekil siniflarina ait destructor fonksiyonlarini gercekleyin.
+Ve her birinin icine basit bir mesaj yazin ornegion Sekil icin "Sekil yikici", Daire icin "Daire yikici" vs.
+Bu islemden sonra programi derleyin ve hangi destructorin ne zaman cagrindigini gozlemleyin.
+
+
+Simdi Sekil pointeri olarak Daire ve Dikdortgen siniflarindan dinamik olarak iki nesne yaratin.
+
+Ornegin Sekil* dikdortgen1 = new Dikdortgen(2,3)
+
+
+Daha sonra bu nesneyi silmeyi unutmayin.
+
+Sildiginizde hangi Destructorin cagrildigina bakin.
+
+Farkettiginiz gibi sadece Sekil nesnesine ait destructor cagrildi. Bu durumda dikdortgen nesnesine ait uye verilerin bulundugu hafiza 
+
+bolgesi sisteme geri verilmemistir. Bu hafiza kacagini (memory leakage) engellemek icin ne yapmalisiniz?
+
+

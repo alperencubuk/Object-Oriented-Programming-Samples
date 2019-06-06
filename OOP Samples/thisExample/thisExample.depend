@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1545976557 source:/home/sedat/oop_workspace/ktu_oop_homeworks/thisExample/main.cpp
+	<iostream>
+	"vector.h"
+	"studentType.h"
+	"vectorArray.h"
+
+1545286894 /home/sedat/oop_workspace/ktu_oop_homeworks/thisExample/include/thisClass.h
+
+1545291454 /home/sedat/oop_workspace/ktu_oop_homeworks/thisExample/include/studentType.h
+	<string>
+
+1545291014 source:/home/sedat/oop_workspace/ktu_oop_homeworks/thisExample/src/studentType.cpp
+	"studentType.h"
+
+1545286908 source:/home/sedat/oop_workspace/ktu_oop_homeworks/thisExample/src/thisClass.cpp
+	"thisClass.h"
+
+1545293531 /home/sedat/oop_workspace/ktu_oop_homeworks/thisExample/include/vector.h
+
+1545293573 source:/home/sedat/oop_workspace/ktu_oop_homeworks/thisExample/src/vector.cpp
+	"vector.h"
+
+1545291014 source:/home/sedat/oop_workspace/ktu_oop_homeworks/thisExample/studentType.cpp
+	"studentType.h"
+
+1545291454 /home/sedat/oop_workspace/ktu_oop_homeworks/thisExample/studentType.h
+	<string>
+
+1545286908 source:/home/sedat/oop_workspace/ktu_oop_homeworks/thisExample/thisClass.cpp
+	"thisClass.h"
+
+1545286894 /home/sedat/oop_workspace/ktu_oop_homeworks/thisExample/thisClass.h
+
+1545975809 source:/home/sedat/oop_workspace/ktu_oop_homeworks/thisExample/vector.cpp
+	"vector.h"
+	<iostream>
+
+1545975763 /home/sedat/oop_workspace/ktu_oop_homeworks/thisExample/vector.h
+	<iostream>
+
+1545976598 source:/home/sedat/oop_workspace/ktu_oop_homeworks/thisExample/src/vectorArray.cpp
+	"vectorArray.h"
+
+1545976546 /home/sedat/oop_workspace/ktu_oop_homeworks/thisExample/include/vectorArray.h
+	"../vector.h"
+

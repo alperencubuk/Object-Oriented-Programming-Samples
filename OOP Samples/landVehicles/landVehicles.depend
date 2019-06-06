@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1544771444 source:/home/sedat/oop_workspace/ktu_oop_homeworks/landVehicles/main.cpp
+	<iostream>
+	"eCar.h"
+	"iCar.h"
+
+1544774082 source:/home/sedat/oop_workspace/ktu_oop_homeworks/landVehicles/src/landVehicleType.cpp
+	"landVehicleType.h"
+
+1544773928 /home/sedat/oop_workspace/ktu_oop_homeworks/landVehicles/include/landVehicleType.h
+	<string>
+	<iostream>
+
+1544774071 source:/home/sedat/oop_workspace/ktu_oop_homeworks/landVehicles/src/iceVehicleType.cpp
+	"iceVehicleType.h"
+
+1544774133 /home/sedat/oop_workspace/ktu_oop_homeworks/landVehicles/include/iceVehicleType.h
+	<landVehicleType.h>
+
+1544774211 source:/home/sedat/oop_workspace/ktu_oop_homeworks/landVehicles/src/electricVehicleType.cpp
+	"electricVehicleType.h"
+
+1544774218 /home/sedat/oop_workspace/ktu_oop_homeworks/landVehicles/include/electricVehicleType.h
+	<landVehicleType.h>
+
+1544774265 source:/home/sedat/oop_workspace/ktu_oop_homeworks/landVehicles/src/iCar.cpp
+	"iCar.h"
+
+1544769642 /home/sedat/oop_workspace/ktu_oop_homeworks/landVehicles/include/iCar.h
+	<iceVehicleType.h>
+
+1544770336 /home/sedat/oop_workspace/ktu_oop_homeworks/landVehicles/include/eCar.h
+	<electricVehicleType.h>
+
+1544774205 source:/home/sedat/oop_workspace/ktu_oop_homeworks/landVehicles/src/eCar.cpp
+	"eCar.h"
+

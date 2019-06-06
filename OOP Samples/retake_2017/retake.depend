@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1516621312 source:/home/sedat/oop_workspace/retake/main.cpp
+	<iostream>
+	"flat.h"
+	"house.h"
+
+1516608545 source:/home/sedat/oop_workspace/retake/src/property.cpp
+	"property.h"
+
+1516617892 /home/sedat/oop_workspace/retake/include/property.h
+	<string>
+
+1516617692 source:/home/sedat/oop_workspace/retake/src/flat.cpp
+	"flat.h"
+	<iostream>
+
+1516617785 /home/sedat/oop_workspace/retake/include/flat.h
+	<property.h>
+
+1516618674 source:/home/sedat/oop_workspace/retake/src/house.cpp
+	"house.h"
+	<iostream>
+
+1516618730 /home/sedat/oop_workspace/retake/include/house.h
+	"property.h"
+

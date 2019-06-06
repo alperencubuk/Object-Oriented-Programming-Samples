@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1482344987 source:/home/sedat/KTU_OOP/OOP_examples/polygon/main.cpp
+	<iostream>
+	<triangle.h>
+	<typeinfo>
+	<rectangle.h>
+
+1482318373 /home/sedat/KTU_OOP/OOP_examples/polygon/include/triangle.h
+	<polygon.h>
+
+1482326508 /home/sedat/KTU_OOP/OOP_examples/polygon/include/polygon.h
+
+1482325928 /home/sedat/KTU_OOP/OOP_examples/polygon/include/rectangle.h
+	<polygon.h>
+
+1482318204 source:/home/sedat/KTU_OOP/OOP_examples/polygon/src/polygon.cpp
+	<iostream>
+	"polygon.h"
+
+1482325935 source:/home/sedat/KTU_OOP/OOP_examples/polygon/src/rectangle.cpp
+	"rectangle.h"
+	"string.h"
+	<iostream>
+
+1482325731 source:/home/sedat/KTU_OOP/OOP_examples/polygon/src/triangle.cpp
+	"triangle.h"
+	"string.h"
+	<iostream>
+
+1482344987 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/polygon/main.cpp
+	<iostream>
+	<triangle.h>
+	<typeinfo>
+	<rectangle.h>
+
+1482318373 /home/sedat/KTU_OOP/ktu_oop_homeworks/polygon/include/triangle.h
+	<polygon.h>
+
+1482326508 /home/sedat/KTU_OOP/ktu_oop_homeworks/polygon/include/polygon.h
+
+1482325928 /home/sedat/KTU_OOP/ktu_oop_homeworks/polygon/include/rectangle.h
+	<polygon.h>
+
+1482318204 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/polygon/src/polygon.cpp
+	<iostream>
+	"polygon.h"
+
+1482325935 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/polygon/src/rectangle.cpp
+	"rectangle.h"
+	"string.h"
+	<iostream>
+
+1482325731 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/polygon/src/triangle.cpp
+	"triangle.h"
+	"string.h"
+	<iostream>
+

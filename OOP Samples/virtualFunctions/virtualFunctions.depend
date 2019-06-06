@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1447777386 source:/home/sedat/KTU_OOP/OOP_examples/virtualFunctions/main.cpp
+	<iostream>
+	"derivedClass.h"
+
+1447777029 /home/sedat/KTU_OOP/OOP_examples/virtualFunctions/include/derivedClass.h
+	"baseClass.h"
+
+1447777420 /home/sedat/KTU_OOP/OOP_examples/virtualFunctions/include/baseClass.h
+
+1447777444 source:/home/sedat/KTU_OOP/OOP_examples/virtualFunctions/src/baseClass.cpp
+	<iostream>
+	"baseClass.h"
+
+1474459073 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/virtualFunctions/main.cpp
+	<iostream>
+	"derivedClass.h"
+
+1474459073 /home/sedat/KTU_OOP/ktu_oop_homeworks/virtualFunctions/include/derivedClass.h
+	"baseClass.h"
+
+1474459073 /home/sedat/KTU_OOP/ktu_oop_homeworks/virtualFunctions/include/baseClass.h
+
+1474459073 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/virtualFunctions/src/baseClass.cpp
+	<iostream>
+	"baseClass.h"
+
+1474459073 source:/home/sedat/KTU_OOP/ktu_oop_homeworks/virtualFunctions/src/derivedClass.cpp
+	<iostream>
+	"derivedClass.h"
+
+1509604131 source:/home/sedat/oop_workspace/ktu_oop_homeworks/virtualFunctions/main.cpp
+	<iostream>
+	"derivedClass.h"
+	"derivedDerivedClass.h"
+
+1509604132 /home/sedat/oop_workspace/ktu_oop_homeworks/virtualFunctions/include/derivedClass.h
+	"baseClass.h"
+
+1509602349 /home/sedat/oop_workspace/ktu_oop_homeworks/virtualFunctions/include/baseClass.h
+
+1506668736 source:/home/sedat/oop_workspace/ktu_oop_homeworks/virtualFunctions/src/baseClass.cpp
+	<iostream>
+	"baseClass.h"
+
+1506668736 source:/home/sedat/oop_workspace/ktu_oop_homeworks/virtualFunctions/src/derivedClass.cpp
+	<iostream>
+	"derivedClass.h"
+
+1509602699 source:/home/sedat/oop_workspace/ktu_oop_homeworks/virtualFunctions/src/derivedDerivedClass.cpp
+	<iostream>
+	"derivedDerivedClass.h"
+
+1509602627 /home/sedat/oop_workspace/ktu_oop_homeworks/virtualFunctions/include/derivedDerivedClass.h
+	<derivedClass.h>
+

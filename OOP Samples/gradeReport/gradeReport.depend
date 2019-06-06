@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1509641838 source:/home/sedat/oop_workspace/ktu_oop_homeworks/gradeReport/main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	"course.h"
+	"studentType.h"
+
+1509641412 source:/home/sedat/oop_workspace/ktu_oop_homeworks/gradeReport/src/course.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"course.h"
+
+1509641388 /home/sedat/oop_workspace/ktu_oop_homeworks/gradeReport/include/course.h
+	<string>
+
+1509641481 source:/home/sedat/oop_workspace/ktu_oop_homeworks/gradeReport/src/studentType.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"studentType.h"
+
+1509641140 /home/sedat/oop_workspace/ktu_oop_homeworks/gradeReport/include/studentType.h
+	"course.h"
+

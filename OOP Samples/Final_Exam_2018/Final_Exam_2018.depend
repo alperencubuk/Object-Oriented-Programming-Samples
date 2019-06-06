@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1547148207 source:/home/sedat/oop_workspace/ktu_oop_homeworks/Final_Exam_2018/main.cpp
+	<iostream>
+	"point3d.h"
+	"point2d.h"
+	"point1D.h"
+
+1547145843 source:/home/sedat/oop_workspace/ktu_oop_homeworks/Final_Exam_2018/src/point1D.cpp
+	"point1D.h"
+
+1547145836 /home/sedat/oop_workspace/ktu_oop_homeworks/Final_Exam_2018/include/point1D.h
+	<math.h>
+
+1547146033 source:/home/sedat/oop_workspace/ktu_oop_homeworks/Final_Exam_2018/src/point2d.cpp
+	"point2d.h"
+
+1547145887 /home/sedat/oop_workspace/ktu_oop_homeworks/Final_Exam_2018/include/point2d.h
+	"point1D.h"
+
+1547146274 source:/home/sedat/oop_workspace/ktu_oop_homeworks/Final_Exam_2018/src/point3d.cpp
+	"point3d.h"
+
+1547146279 /home/sedat/oop_workspace/ktu_oop_homeworks/Final_Exam_2018/include/point3d.h
+	<point2d.h>
+
+1547145843 source:/home/sedat/oop_workspace/ktu_oop_homeworks/Final_Exam_2018/point1D.cpp
+	"point1D.h"
+
+1547145836 /home/sedat/oop_workspace/ktu_oop_homeworks/Final_Exam_2018/point1D.h
+	<math.h>
+
+1547146033 source:/home/sedat/oop_workspace/ktu_oop_homeworks/Final_Exam_2018/point2d.cpp
+	"point2d.h"
+
+1547145887 /home/sedat/oop_workspace/ktu_oop_homeworks/Final_Exam_2018/point2d.h
+	"point1D.h"
+
+1547146274 source:/home/sedat/oop_workspace/ktu_oop_homeworks/Final_Exam_2018/point3d.cpp
+	"point3d.h"
+
+1547147752 /home/sedat/oop_workspace/ktu_oop_homeworks/Final_Exam_2018/point3d.h
+	"point2d.h"
+
